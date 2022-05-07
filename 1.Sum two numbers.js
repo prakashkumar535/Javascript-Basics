@@ -4,11 +4,10 @@
 // Sum a and b
 // Return the result
 
-function myFunction
-    (a, b) {
+function myFunction1(a, b) {
     return a + b;
 }
 
-myFunction(1,2)
-myFunction(1,10)
-myFunction(99,1)
+myFunction1(1,2)
+myFunction1(1,10)
+myFunction1(99,1)
